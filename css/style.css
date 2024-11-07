@@ -215,7 +215,7 @@ a.scroll.bnr-btn i {
 /* banner */
 
 .banner-w3pvt {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(../images/banner-niyas.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -698,7 +698,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote {
-    background: url(../images/banner.jpg) 0px 0px;
+    background: url(../images/banner-niyas.jpg) 0px 0px;
     background-size: cover;
     position: relative;
 }
